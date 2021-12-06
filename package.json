@@ -1,0 +1,25 @@
+{
+  "name": "weather-cli",
+  "version": "1.0.0",
+  "description": "weather cli",
+  "main": "index.js",
+  "bin": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "weathet",
+    "cli"
+  ],
+  "author": "weniamin",
+  "license": "ISC",
+  "homepage": "http://wenik.com",
+  "repository": {
+    "type": "git",
+    "url": "http://wenik.com"
+  },
+  "bugs": {
+    "url": "http://wenik.com",
+    "email": "wenik@mail.com"
+  }
+}
